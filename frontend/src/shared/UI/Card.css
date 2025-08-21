@@ -1,0 +1,11 @@
+
+
+.header b{
+    width: 4rem;
+    height: 4rem;
+    text-align: center;
+}
+
+.header .card-title{
+    height: 4rem;
+}
